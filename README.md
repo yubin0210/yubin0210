@@ -11,8 +11,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📫 How to reach me:
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/YOUR_PORTFOLIO](https://gratis-sidecar-0c4.notion.site/849ac566e8714b61a5b4e7fd0f35d7b9?pvs=4))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubinn0210@gmail.com)
+![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://gratis-sidecar-0c4.notion.site/849ac566e8714b61a5b4e7fd0f35d7b9?pvs=4)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubinn0210@gmail.com)
 
 
 ---
