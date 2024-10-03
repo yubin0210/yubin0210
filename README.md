@@ -19,7 +19,6 @@
 ---
 
 ### ⚙️ GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yubin0210&show_icons=true&theme=dark )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin0210&layout=compact&theme=dark )
 
 ---
