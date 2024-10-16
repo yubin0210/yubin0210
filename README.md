@@ -1,5 +1,3 @@
-
-
 ---
 
 ### 🛠️ My Tech Stack:
@@ -13,8 +11,7 @@
 ### 📫 How to reach me:
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://gratis-sidecar-0c4.notion.site/849ac566e8714b61a5b4e7fd0f35d7b9?pvs=4)
 [![Gmail](https://img.shields.io/badge/ubinn0210@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ubinn0210@gmail.com)
-
-
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](your-blog-url-here)
 
 ---
 
@@ -27,5 +24,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yubin0210&theme=dark )
 
 ---
-
-
