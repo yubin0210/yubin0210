@@ -1,41 +1,45 @@
-# 👋 Hi, I'm Yubin
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+%EC%9C%A0%EB%B9%88+%F0%9F%91%8B;Backend+%2F+AI+Developer;AI+Native+Engineer)](https://git.io/typing-svg)
 
-## 🛠️ Tech Stack
+</div>
 
-### 🔙 Backend
+<br>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Database
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud / AI
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure Cognitive Services](https://img.shields.io/badge/Azure%20Cognitive%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🧠 AI / LLM
-![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
+</div>
 
-### ⚙️ Tools
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-FF9900?style=for-the-badge)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<br>
 
----
+## 📊 GitHub Stats
 
-### 🖥️ Blog  
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cases.tistory.com/)  
+<div align="center">
 
----
+![Yubin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yubin0210&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin0210&layout=compact&theme=tokyonight&hide_border=true)
 
-### 📫 Contact me  
-[![Gmail](https://img.shields.io/badge/ubinn0210@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubinn0210@gmail.com)  
+</div>
+
+<br>
+
+## 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-ubinn0210@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubinn0210@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-cases.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://cases.tistory.com)
+
+</div>
