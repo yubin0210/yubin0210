@@ -29,8 +29,6 @@
 
 <div align="center">
 
-![Yubin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yubin0210&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin0210&layout=compact&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yubin0210&theme=tokyo-night&hide_border=true)
 
 </div>
